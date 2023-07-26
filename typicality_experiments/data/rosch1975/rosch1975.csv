@@ -1,0 +1,566 @@
+preamble,stimulus,item,category,rank
+A doll,is a toy.,doll,toy,1
+A top,is a toy.,top,toy,2
+A jack-in-the-box,is a toy.,jack-in-the-box,toy,3
+A toy soldier,is a toy.,toy soldier,toy,4
+A yo-yo,is a toy.,yo-yo,toy,5
+A block,is a toy.,block,toy,6
+Marbles,are toys.,marbles,toy,7
+A rattle,is a toy.,rattle,toy,8
+A stuffed animal,is a toy.,stuffed animal,toy,9
+A water pistol,is a toy.,water pistol,toy,10
+A teddy bear,is a toy.,teddy bear,toy,11
+A rocking horse,is a toy.,rocking horse,toy,12
+A doll house,is a toy.,doll house,toy,13
+A ball,is a toy.,ball,toy,14
+Jacks,are toys.,jacks,toy,15
+Paper dolls,are toys.,paper dolls,toy,16
+An erector set,is a toy.,erector set,toy,17
+A hula hoop,is a toy.,hula hoop,toy,18
+A jump rope,is a toy.,jump rope,toy,19
+A pogo stick,is a toy.,pogo stick,toy,20
+A clay,is a toy.,clay,toy,21
+A wagon,is a toy.,wagon,toy,22
+A kite,is a toy.,kite,toy,23
+A train,is a toy.,train,toy,24
+A tricycle,is a toy.,tricycle,toy,25
+A coloring book,is a toy.,coloring book,toy,26
+Crayons,are toys.,crayons,toy,27
+A truck,is a toy.,truck,toy,28
+A puzzle,is a toy.,puzzle,toy,29
+A fire engine,is a toy.,fire engine,toy,30
+A balloon,is a toy.,balloon,toy,31
+Skates,are toys.,skates,toy,32
+A baseball,is a toy.,baseball,toy,33
+A drum,is a toy.,drum,toy,34
+A football,is a toy.,football,toy,35
+A game,is a toy.,game,toy,36
+A swing,is a toy.,swing,toy,37
+A boat,is a toy.,boat,toy,38
+A monopoly,is a toy.,monopoly,toy,39
+A sled,is a toy.,sled,toy,40
+A seesaw,is a toy.,seesaw,toy,41
+Stilts,are toys.,stilts,toy,42
+Checkers,are toys.,checkers,toy,43
+A bat,is a toy.,bat,toy,44
+A car,is a toy.,car,toy,45
+An airplane,is a toy.,airplane,toy,46
+A bicycle,is a toy.,bicycle,toy,47
+A tractor,is a toy.,tractor,toy,48
+A sandbox,is a toy.,sandbox,toy,49
+A bike,is a toy.,bike,toy,50
+A bow and arrow,is a toy.,bow and arrow,toy,51
+A rope,is a toy.,rope,toy,52
+Dishes,are toys.,dishes,toy,53
+Cards,are toys.,cards,toy,54
+A mitt,is a toy.,mitt,toy,55
+A horse,is a toy.,horse,toy,56
+A gun,is a toy.,gun,toy,57
+Animals,are toys.,animals,toy,58
+A tennis racket,is a toy.,tennis racket,toy,59
+Books,are toys.,books,toy,60
+A robin,is a bird.,robin,bird,1
+A sparrow,is a bird.,sparrow,bird,2
+A bluejay,is a bird.,bluejay,bird,3
+A bluebird,is a bird.,bluebird,bird,4
+A canary,is a bird.,canary,bird,5
+A blackbird,is a bird.,blackbird,bird,6
+A dove,is a bird.,dove,bird,7
+A lark,is a bird.,lark,bird,8
+A swallow,is a bird.,swallow,bird,9
+A parakeet,is a bird.,parakeet,bird,10
+An oriole,is a bird.,oriole,bird,11
+A mockingbird,is a bird.,mockingbird,bird,12
+A redbird,is a bird.,redbird,bird,13
+A wren,is a bird.,wren,bird,14
+A finch,is a bird.,finch,bird,15
+A starling,is a bird.,starling,bird,16
+A cardinal,is a bird.,cardinal,bird,17
+An eagle,is a bird.,eagle,bird,18
+A hummingbird,is a bird.,hummingbird,bird,19
+A seagull,is a bird.,seagull,bird,20
+A woodpecker,is a bird.,woodpecker,bird,21
+A pigeon,is a bird.,pigeon,bird,22
+A thrush,is a bird.,thrush,bird,23
+A falcon,is a bird.,falcon,bird,24
+A crow,is a bird.,crow,bird,25
+A hawk,is a bird.,hawk,bird,26
+A raven,is a bird.,raven,bird,27
+A goldfinch,is a bird.,goldfinch,bird,28
+A parrot,is a bird.,parrot,bird,29
+A sandpiper,is a bird.,sandpiper,bird,30
+A pheasant,is a bird.,pheasant,bird,31
+A catbird,is a bird.,catbird,bird,32
+A crane,is a bird.,crane,bird,33
+Albatross,are birds.,albatross,bird,34
+A condor,is a bird.,condor,bird,35
+A toucan,is a bird.,toucan,bird,36
+An owl,is a bird.,owl,bird,37
+A pelican,is a bird.,pelican,bird,38
+A goose,is a bird.,goose,bird,39
+A vulture,is a bird.,vulture,bird,40
+A stork,is a bird.,stork,bird,41
+A buzzard,is a bird.,buzzard,bird,42
+A swan,is a bird.,swan,bird,43
+A flamingo,is a bird.,flamingo,bird,44
+A duck,is a bird.,duck,bird,45
+A peacock,is a bird.,peacock,bird,46
+An egret,is a bird.,egret,bird,47
+A chicken,is a bird.,chicken,bird,48
+A turkey,is a bird.,turkey,bird,49
+An ostrich,is a bird.,ostrich,bird,50
+A titmouse,is a bird.,titmouse,bird,51
+An emu,is a bird.,emu,bird,52
+A penguin,is a bird.,penguin,bird,53
+A bat,is a bird.,bat,bird,54
+Football,is a sport.,football,sport,1
+Baseball,is a sport.,baseball,sport,2
+Basketball,is a sport.,basketball,sport,3
+Tennis,is a sport.,tennis,sport,4
+Softball,is a sport.,softball,sport,5
+Canoeing,is a sport.,canoeing,sport,6
+Handball,is a sport.,handball,sport,7
+Rugby,is a sport.,rugby,sport,8
+Hockey,is a sport.,hockey,sport,9
+Ice hockey,is a sport.,ice hockey,sport,10
+Swimming,is a sport.,swimming,sport,11
+Track,is a sport.,track,sport,12
+Boxing,is a sport.,boxing,sport,13
+Volleyball,is a sport.,volleyball,sport,14
+Lacrosse,is a sport.,lacrosse,sport,15
+Skiing,is a sport.,skiing,sport,16
+Golf,is a sport.,golf,sport,17
+Polo,is a sport.,polo,sport,18
+Surfing,is a sport.,surfing,sport,19
+Wrestling,is a sport.,wrestling,sport,20
+Gymnastics,is a sport.,gymnastics,sport,21
+Cricket,is a sport.,cricket,sport,22
+Squash,is a sport.,squash,sport,23
+Badminton,is a sport.,badminton,sport,24
+Racing,is a sport.,racing,sport,25
+Pole vault,is a sport.,pole vault,sport,26
+Fencing,is a sport.,fencing,sport,27
+Bowling,is a sport.,bowling,sport,28
+Water skiing,is a sport.,water skiing,sport,29
+Ice skating,is a sport.,ice skating,sport,30
+Jai alai,is a sport.,jai alai,sport,31
+Skating,is a sport.,skating,sport,32
+Skindiving,is a sport.,skindiving,sport,33
+Sailing,is a sport.,sailing,sport,34
+Diving,is a sport.,diving,sport,35
+Archery,is a sport.,archery,sport,36
+Judo,is a sport.,judo,sport,37
+Car racing,is a sport.,car racing,sport,38
+Ping pong,is a sport.,ping pong,sport,39
+Rowing,is a sport.,rowing,sport,40
+Fishing,is a sport.,fishing,sport,41
+Horseback riding,is a sport.,horseback riding,sport,42
+Running,is a sport.,running,sport,43
+Horse racing,is a sport.,horse racing,sport,44
+Hiking,is a sport.,hiking,sport,45
+Weight lifting,is a sport.,weight lifting,sport,46
+Croquet,is a sport.,croquet,sport,47
+Horseshoes,is a sport.,horseshoes,sport,48
+Boating,is a sport.,boating,sport,49
+Pool,is a sport.,pool,sport,50
+Billiards,is a sport.,billiards,sport,51
+Hunting,is a sport.,hunting,sport,52
+Jump rope,is a sport.,jump rope,sport,53
+Camping,is a sport.,camping,sport,54
+Chess,is a sport.,chess,sport,55
+Dancing,is a sport.,dancing,sport,56
+Checkers,is a sport.,checkers,sport,57
+Cards,is a sport.,cards,sport,58
+Sunbathing,is a sport.,sunbathing,sport,59
+Pea,is a vegetable.,pea,vegetable,1
+Carrot,is a vegetable.,carrot,vegetable,2
+Green bean,is a vegetable.,green bean,vegetable,3
+String bean,is a vegetable.,string bean,vegetable,4
+Spinach,is a vegetable.,spinach,vegetable,5
+Broccoli,is a vegetable.,broccoli,vegetable,6
+Asparagus,are vegetables.,asparagus,vegetable,7
+Corn,is a vegetable.,corn,vegetable,8
+Cauliflower,is a vegetable.,cauliflower,vegetable,9
+Brussels sprouts,are vegetables.,brussels sprouts,vegetable,10
+Squash,is a vegetable.,squash,vegetable,11
+Lettuce,is a vegetable.,lettuce,vegetable,12
+Celery,is a vegetable.,celery,vegetable,13
+Cucumber,is a vegetable.,cucumber,vegetable,14
+Beet,is a vegetable.,beet,vegetable,15
+Green,is a vegetable.,green,vegetable,16
+Tomato,is a vegetable.,tomato,vegetable,17
+Lima bean,is a vegetable.,lima bean,vegetable,18
+Artichoke,is a vegetable.,artichoke,vegetable,19
+Turnip,is a vegetable.,turnip,vegetable,20
+Eggplant,is a vegetable.,eggplant,vegetable,21
+Romaine,is a vegetable.,romaine,vegetable,22
+Green pepper,is a vegetable.,green pepper,vegetable,23
+Okra,is a vegetable.,okra,vegetable,24
+Radish,is a vegetable.,radish,vegetable,25
+Onion,is a vegetable.,onion,vegetable,26
+Bean,is a vegetable.,bean,vegetable,27
+Green onion,is a vegetable.,green onion,vegetable,28
+Potato,is a vegetable.,potato,vegetable,29
+Parsnip,is a vegetable.,parsnip,vegetable,30
+Turnip green,is a vegetable.,turnip green,vegetable,31
+Collard,is a vegetable.,collard,vegetable,32
+Wax bean,is a vegetable.,wax bean,vegetable,33
+Watercress,are vegetables.,watercress,vegetable,34
+Black eyed pea,is a vegetable.,black eyed pea,vegetable,35
+Leek,is a vegetable.,leek,vegetable,36
+Pepper,is a vegetable.,pepper,vegetable,37
+Sweet potato,is a vegetable.,sweet potato,vegetable,38
+Yam,is a vegetable.,yam,vegetable,39
+Parsley,is a vegetable.,parsley,vegetable,40
+Endive,is a vegetable.,endive,vegetable,41
+Rutabaga,is a vegetable.,rutabaga,vegetable,42
+Mushroom,is a vegetable.,mushroom,vegetable,43
+Avocado,is a vegetable.,avocado,vegetable,44
+Rhubarb,is a vegetable.,rhubarb,vegetable,45
+Kale,is a vegetable.,kale,vegetable,46
+Escarole,is a vegetable.,escarole,vegetable,47
+Sauerkraut,is a vegetable.,sauerkraut,vegetable,48
+Pickle,is a vegetable.,pickle,vegetable,49
+Baked bean,is a vegetable.,baked bean,vegetable,50
+Pumpkin,is a vegetable.,pumpkin,vegetable,51
+Seaweed,is a vegetable.,seaweed,vegetable,52
+Garlic,is a vegetable.,garlic,vegetable,53
+Dandelion,is a vegetable.,dandelion,vegetable,54
+Peanut,is a vegetable.,peanut,vegetable,55
+Rice,is a vegetable.,rice,vegetable,56
+A saw,is a tool.,saw,tool,1
+A hammer,is a tool.,hammer,tool,2
+A ruler,is a tool.,ruler,tool,3
+A screwdriver,is a tool.,screwdriver,tool,4
+A drill,is a tool.,drill,tool,5
+A nail,is a tool.,nail,tool,6
+A tape measure,is a tool.,tape measure,tool,7
+A sawhorse,is a tool.,sawhorse,tool,8
+A sandpaper,is a tool.,sandpaper,tool,9
+A sander,is a tool.,sander,tool,10
+A level,is a tool.,level,tool,11
+A plane,is a tool.,plane,tool,12
+A file,is a tool.,file,tool,13
+A toolbox,is a tool.,toolbox,tool,14
+A t-square,is a tool.,T-square,tool,15
+A chisel,is a tool.,chisel,tool,16
+A rasp,is a tool.,rasp,tool,17
+A pencil,is a tool.,pencil,tool,18
+A hacksaw,is a tool.,hacksaw,tool,19
+A square,is a tool.,square,tool,20
+A bench,is a tool.,bench,tool,21
+A plier,is a tool.,plier,tool,22
+A wrench,is a tool.,wrench,tool,23
+A ladder,is a tool.,ladder,tool,24
+A lathe,is a tool.,lathe,tool,25
+A vise,is a tool.,vise,tool,26
+A screw,is a tool.,screw,tool,27
+A wood,is a tool.,wood,tool,28
+A wedge,is a tool.,wedge,tool,29
+A lumber,is a tool.,lumber,tool,30
+A blueprint,is a tool.,blueprint,tool,31
+A brace,is a tool.,brace,tool,32
+An awl,is a tool.,awl,tool,33
+A crowbar,is a tool.,crowbar,tool,34
+A hinge,is a tool.,hinge,tool,35
+A miter box,is a tool.,miter box,tool,36
+A knife,is a tool.,knife,tool,37
+A chalk,is a tool.,chalk,tool,38
+A nut,is a tool.,nut,tool,39
+A bolt,is a tool.,bolt,tool,40
+A plumb line,is a tool.,plumb line,tool,41
+A brush,is a tool.,brush,tool,42
+A sledge hammer,is a tool.,sledge hammer,tool,43
+A glue,is a tool.,glue,tool,44
+A paintbrush,is a tool.,paintbrush,tool,45
+A varnish,is a tool.,varnish,tool,46
+An apron,is a tool.,apron,tool,47
+A stapler,is a tool.,stapler,tool,48
+An extension cord,is a tool.,extension cord,tool,49
+A soldering iron,is a tool.,soldering iron,tool,50
+A plaster,is a tool.,plaster,tool,51
+A wheelbarrow,is a tool.,wheelbarrow,tool,52
+An axe,is a tool.,axe,tool,53
+A slide rule,is a tool.,slide rule,tool,54
+A cement,is a tool.,cement,tool,55
+An anvil,is a tool.,anvil,tool,56
+A hatchet,is a tool.,hatchet,tool,57
+A rag,is a tool.,rag,tool,58
+A scissor,is a tool.,scissor,tool,59
+A crane,is a tool.,crane,tool,60
+Orange,is a fruit.,orange,fruit,1
+Apple,is a fruit.,apple,fruit,2
+Banana,is a fruit.,banana,fruit,3
+Peach,is a fruit.,peach,fruit,4
+Pear,is a fruit.,pear,fruit,5
+Apricot,is a fruit.,apricot,fruit,6
+Tangerine,is a fruit.,tangerine,fruit,7
+Plum,is a fruit.,plum,fruit,8
+Grape,is a fruit.,grape,fruit,9
+Nectarine,is a fruit.,nectarine,fruit,10
+Strawberry,is a fruit.,strawberry,fruit,11
+Grapefruit,is a fruit.,grapefruit,fruit,12
+Berry,is a fruit.,berry,fruit,13
+Cherry,is a fruit.,cherry,fruit,14
+Pineapple,is a fruit.,pineapple,fruit,15
+Blackberry,is a fruit.,blackberry,fruit,16
+Melon,is a fruit.,melon,fruit,17
+Blueberry,is a fruit.,blueberry,fruit,18
+Raspberry,is a fruit.,raspberry,fruit,19
+Lemon,is a fruit.,lemon,fruit,20
+Black raspberry,is a fruit.,black raspberry,fruit,21
+Boysenberry,is a fruit.,boysenberry,fruit,22
+Watermelon,is a fruit.,watermelon,fruit,23
+Cantaloupe,is a fruit.,cantaloupe,fruit,24
+Lime,is a fruit.,lime,fruit,25
+Tangelo,is a fruit.,tangelo,fruit,26
+Papaya,is a fruit.,papaya,fruit,27
+Honeydew,is a fruit.,honeydew,fruit,28
+Fig,is a fruit.,fig,fruit,29
+Mango,is a fruit.,mango,fruit,30
+Guava,is a fruit.,guava,fruit,31
+Pomegranate,is a fruit.,pomegranate,fruit,32
+Cranberry,is a fruit.,cranberry,fruit,33
+Passion fruit,is a fruit.,passion fruit,fruit,34
+Prune,is a fruit.,prune,fruit,35
+Gooseberry,is a fruit.,gooseberry,fruit,36
+Date,is a fruit.,date,fruit,37
+Kumquat,is a fruit.,kumquat,fruit,38
+Raisin,is a fruit.,raisin,fruit,39
+Muskmelon,is a fruit.,muskmelon,fruit,40
+Persimmon,is a fruit.,persimmon,fruit,41
+Pawpaw,is a fruit.,pawpaw,fruit,42
+Coconut,is a fruit.,coconut,fruit,43
+Avocado,is a fruit.,avocado,fruit,44
+Pumpkin,is a fruit.,pumpkin,fruit,45
+Tomato,is a fruit.,tomato,fruit,46
+Nut,is a fruit.,nut,fruit,47
+Gourd,is a fruit.,gourd,fruit,48
+Olive,is a fruit.,olive,fruit,49
+Pickle,is a fruit.,pickle,fruit,50
+Squash,is a fruit.,squash,fruit,51
+A pant,is a type of clothing.,pant,clothing,1
+A shirt,is a type of clothing.,shirt,clothing,2
+Dress,are clothes.,dress,clothing,3
+A skirt,is a type of clothing.,skirt,clothing,4
+A blouse,is a type of clothing.,blouse,clothing,5
+A suit,is a type of clothing.,suit,clothing,6
+A slack,is a type of clothing.,slack,clothing,7
+A jacket,is a type of clothing.,jacket,clothing,8
+A coat,is a type of clothing.,coat,clothing,9
+A sweater,is a type of clothing.,sweater,clothing,10
+A sweatshirt,is a type of clothing.,sweatshirt,clothing,11
+An underpant,is a type of clothing.,underpant,clothing,12
+A sports jacket,is a type of clothing.,sports jacket,clothing,13
+A jumper,is a type of clothing.,jumper,clothing,14
+A panty,is a type of clothing.,panty,clothing,15
+A sock,is a type of clothing.,sock,clothing,16
+A parka,is a type of clothing.,parka,clothing,17
+A pajama,is a type of clothing.,pajama,clothing,18
+An undershirt,is a type of clothing.,undershirt,clothing,19
+An overcoat,is a type of clothing.,overcoat,clothing,20
+A nightgown,is a type of clothing.,nightgown,clothing,21
+A raincoat,is a type of clothing.,raincoat,clothing,22
+A bathing suit,is a type of clothing.,bathing suit,clothing,23
+A bathrobe,is a type of clothing.,bathrobe,clothing,24
+A slip,is a type of clothing.,slip,clothing,25
+A bra,is a type of clothing.,bra,clothing,26
+A shoe,is a type of clothing.,shoe,clothing,27
+A tuxedo,is a type of clothing.,tuxedo,clothing,28
+A stocking,is a type of clothing.,stocking,clothing,29
+A vest,is a type of clothing.,vest,clothing,30
+A nylon,is a type of clothing.,nylon,clothing,31
+A cape,is a type of clothing.,cape,clothing,32
+A boot,is a type of clothing.,boot,clothing,33
+A sandal,is a type of clothing.,sandal,clothing,34
+A tie,is a type of clothing.,tie,clothing,35
+A girdle,is a type of clothing.,girdle,clothing,36
+A belt,is a type of clothing.,belt,clothing,37
+A scarf,is a type of clothing.,scarf,clothing,38
+A mitten,is a type of clothing.,mitten,clothing,39
+A slipper,is a type of clothing.,slipper,clothing,40
+A hat,is a type of clothing.,hat,clothing,41
+An overshoe,is a type of clothing.,overshoe,clothing,42
+A glove,is a type of clothing.,glove,clothing,43
+An apron,is a type of clothing.,apron,clothing,44
+An earmuff,is a type of clothing.,earmuff,clothing,45
+A handkerchief,is a type of clothing.,handkerchief,clothing,46
+A purse,is a type of clothing.,purse,clothing,47
+A hairband,is a type of clothing.,hairband,clothing,48
+A ring,is a type of clothing.,ring,clothing,49
+An earring,is a type of clothing.,earring,clothing,50
+A watch,is a type of clothing.,watch,clothing,51
+A cuff link,is a type of clothing.,cuff link,clothing,52
+A necklace,is a type of clothing.,necklace,clothing,53
+A bracelet,is a type of clothing.,bracelet,clothing,54
+A cane,is a type of clothing.,cane,clothing,55
+An automobile,is a vehicle.,automobile,vehicle,1
+A station wagon,is a vehicle.,station wagon,vehicle,2
+A truck,is a vehicle.,truck,vehicle,3
+A car,is a vehicle.,car,vehicle,4
+Bus,are vehicles.,bus,vehicle,5
+A taxi,is a vehicle.,taxi,vehicle,6
+A jeep,is a vehicle.,jeep,vehicle,7
+An ambulance,is a vehicle.,ambulance,vehicle,8
+A motorcycle,is a vehicle.,motorcycle,vehicle,9
+A streetcar,is a vehicle.,streetcar,vehicle,10
+A van,is a vehicle.,van,vehicle,11
+A honda,is a vehicle.,Honda,vehicle,12
+A cable car,is a vehicle.,cable car,vehicle,13
+A train,is a vehicle.,train,vehicle,14
+A trolley,is a vehicle.,trolley,vehicle,15
+A bicycle,is a vehicle.,bicycle,vehicle,16
+A carriage,is a vehicle.,carriage,vehicle,17
+An airplane,is a vehicle.,airplane,vehicle,18
+A bike,is a vehicle.,bike,vehicle,19
+A boat,is a vehicle.,boat,vehicle,20
+A jet,is a vehicle.,jet,vehicle,21
+A ship,is a vehicle.,ship,vehicle,22
+A scooter,is a vehicle.,scooter,vehicle,23
+A tractor,is a vehicle.,tractor,vehicle,24
+A wagon,is a vehicle.,wagon,vehicle,25
+A subway,is a vehicle.,subway,vehicle,26
+A trailer,is a vehicle.,trailer,vehicle,27
+A cart,is a vehicle.,cart,vehicle,28
+A wheelchair,is a vehicle.,wheelchair,vehicle,29
+A yacht,is a vehicle.,yacht,vehicle,30
+A tank,is a vehicle.,tank,vehicle,31
+A go-cart,is a vehicle.,go-cart,vehicle,32
+A rowboat,is a vehicle.,rowboat,vehicle,33
+A dogsled,is a vehicle.,dogsled,vehicle,34
+A tricycle,is a vehicle.,tricycle,vehicle,35
+A canoe,is a vehicle.,canoe,vehicle,36
+A raft,is a vehicle.,raft,vehicle,37
+A submarine,is a vehicle.,submarine,vehicle,38
+A sled,is a vehicle.,sled,vehicle,39
+A horse,is a vehicle.,horse,vehicle,40
+A rocket,is a vehicle.,rocket,vehicle,41
+A blimp,is a vehicle.,blimp,vehicle,42
+A skate,is a vehicle.,skate,vehicle,43
+A camel,is a vehicle.,camel,vehicle,44
+Feet,are vehicles.,feet,vehicle,45
+A ski,is a vehicle.,ski,vehicle,46
+A skateboard,is a vehicle.,skateboard,vehicle,47
+A wheelbarrow,is a vehicle.,wheelbarrow,vehicle,48
+A surfboard,is a vehicle.,surfboard,vehicle,49
+An elevator,is a vehicle.,elevator,vehicle,50
+A chair,is a type of furniture.,chair,furniture,1
+A sofa,is a type of furniture.,sofa,furniture,2
+A couch,is a type of furniture.,couch,furniture,3
+A table,is a type of furniture.,table,furniture,4
+An easy chair,is a type of furniture.,easy chair,furniture,5
+A dresser,is a type of furniture.,dresser,furniture,6
+A rocking chair,is a type of furniture.,rocking chair,furniture,7
+A coffee table,is a type of furniture.,coffee table,furniture,8
+A rocker,is a type of furniture.,rocker,furniture,9
+A love seat,is a type of furniture.,love seat,furniture,10
+Chest of drawers,are furniture.,chest of drawers,furniture,11
+A desk,is a type of furniture.,desk,furniture,12
+A bed,is a type of furniture.,bed,furniture,13
+A bureau,is a type of furniture.,bureau,furniture,14
+A davenport,is a type of furniture.,davenport,furniture,15
+An end table,is a type of furniture.,end table,furniture,16
+A divan,is a type of furniture.,divan,furniture,17
+A night table,is a type of furniture.,night table,furniture,18
+A chest,is a type of furniture.,chest,furniture,19
+A cedar chest,is a type of furniture.,cedar chest,furniture,20
+A vanity,is a type of furniture.,vanity,furniture,21
+A bookcase,is a type of furniture.,bookcase,furniture,22
+A lounge,is a type of furniture.,lounge,furniture,23
+A chaise lounge,is a type of furniture.,chaise lounge,furniture,24
+An ottoman,is a type of furniture.,ottoman,furniture,25
+A footstool,is a type of furniture.,footstool,furniture,26
+A cabinet,is a type of furniture.,cabinet,furniture,27
+A china closet,is a type of furniture.,china closet,furniture,28
+A bench,is a type of furniture.,bench,furniture,29
+A buffet,is a type of furniture.,buffet,furniture,30
+A lamp,is a type of furniture.,lamp,furniture,31
+A stool,is a type of furniture.,stool,furniture,32
+A hassock,is a type of furniture.,hassock,furniture,33
+A drawer,is a type of furniture.,drawer,furniture,34
+A piano,is a type of furniture.,piano,furniture,35
+A cushion,is a type of furniture.,cushion,furniture,36
+A magazine rack,is a type of furniture.,magazine rack,furniture,37
+A hi-fi,is a type of furniture.,hi-fi,furniture,38
+A cupboard,is a type of furniture.,cupboard,furniture,39
+A stereo,is a type of furniture.,stereo,furniture,40
+A mirror,is a type of furniture.,mirror,furniture,41
+A television,is a type of furniture.,television,furniture,42
+A bar,is a type of furniture.,bar,furniture,43
+A shelf,is a type of furniture.,shelf,furniture,44
+A rug,is a type of furniture.,rug,furniture,45
+A pillow,is a type of furniture.,pillow,furniture,46
+A wastebasket,is a type of furniture.,wastebasket,furniture,47
+A radio,is a type of furniture.,radio,furniture,48
+A sewing machine,is a type of furniture.,sewing machine,furniture,49
+A stove,is a type of furniture.,stove,furniture,50
+A counter,is a type of furniture.,counter,furniture,51
+A clock,is a type of furniture.,clock,furniture,52
+A drape,is a type of furniture.,drape,furniture,53
+A refrigerator,is a type of furniture.,refrigerator,furniture,54
+A picture,is a type of furniture.,picture,furniture,55
+A closet,is a type of furniture.,closet,furniture,56
+A vase,is a type of furniture.,vase,furniture,57
+An ashtray,is a type of furniture.,ashtray,furniture,58
+A fan,is a type of furniture.,fan,furniture,59
+A telephone,is a type of furniture.,telephone,furniture,60
+A gun,is a weapon.,gun,weapon,1
+A pistol,is a weapon.,pistol,weapon,2
+A revolver,is a weapon.,revolver,weapon,3
+A machine gun,is a weapon.,machine gun,weapon,4
+A rifle,is a weapon.,rifle,weapon,5
+A switchblade,is a weapon.,switchblade,weapon,6
+A knife,is a weapon.,knife,weapon,7
+A dagger,is a weapon.,dagger,weapon,8
+A shotgun,is a weapon.,shotgun,weapon,9
+A sword,is a weapon.,sword,weapon,10
+A bomb,is a weapon.,bomb,weapon,11
+A hand grenade,is a weapon.,hand grenade,weapon,12
+An atom bomb,is a weapon.,Atom bomb,weapon,13
+A bayonet,is a weapon.,bayonet,weapon,14
+A spear,is a weapon.,spear,weapon,15
+A bazooka,is a weapon.,bazooka,weapon,16
+A cannon,is a weapon.,cannon,weapon,17
+A bow and arrow,is a weapon.,bow and arrow,weapon,18
+A club,is a weapon.,club,weapon,19
+A lance,is a weapon.,lance,weapon,20
+A brass knuckle,is a weapon.,brass knuckle,weapon,21
+A bullet,is a weapon.,bullet,weapon,22
+A tomahawk,is a weapon.,tomahawk,weapon,23
+A mortar,is a weapon.,mortar,weapon,24
+An arrow,is a weapon.,arrow,weapon,25
+A blackjack,is a weapon.,blackjack,weapon,26
+A tank,is a weapon.,tank,weapon,27
+Teargas,are weapons.,teargas,weapon,28
+A missile,is a weapon.,missile,weapon,29
+A whip,is a weapon.,whip,weapon,30
+An ice pick,is a weapon.,ice pick,weapon,31
+A hatchet,is a weapon.,hatchet,weapon,32
+A slingshot,is a weapon.,slingshot,weapon,33
+A fist,is a weapon.,fist,weapon,34
+An axe,is a weapon.,axe,weapon,35
+A bow,is a weapon.,bow,weapon,36
+A razor,is a weapon.,razor,weapon,37
+A razor blade,is a weapon.,razor blade,weapon,38
+A rocket,is a weapon.,rocket,weapon,39
+A judo,is a weapon.,judo,weapon,40
+A stick,is a weapon.,stick,weapon,41
+A poison,is a weapon.,poison,weapon,42
+A rock,is a weapon.,rock,weapon,43
+A stone,is a weapon.,stone,weapon,44
+Gas,are weapons.,gas,weapon,45
+A chain,is a weapon.,chain,weapon,46
+A scissor,is a weapon.,scissor,weapon,47
+A brick,is a weapon.,brick,weapon,48
+A pitchfork,is a weapon.,pitchfork,weapon,49
+A hammer,is a weapon.,hammer,weapon,50
+A word,is a weapon.,word,weapon,51
+A hand,is a weapon.,hand,weapon,52
+A pipe,is a weapon.,pipe,weapon,53
+A rope,is a weapon.,rope,weapon,54
+An airplane,is a weapon.,airplane,weapon,55
+A foot,is a weapon.,foot,weapon,56
+A car,is a weapon.,car,weapon,57
+A screwdriver,is a weapon.,screwdriver,weapon,58
+Glass,are weapons.,glass,weapon,59
+A shoe,is a weapon.,shoe,weapon,60

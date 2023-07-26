@@ -1,0 +1,60 @@
+gun
+pistol
+revolver
+machine gun
+rifle
+switchblade
+knife
+dagger
+shotgun
+sword
+bomb
+hand grenade
+Atom bomb
+bayonet
+spear
+bazooka
+cannon
+bow and arrow
+club
+lance
+brass knuckle
+bullet
+tomahawk
+mortar
+arrow
+blackjack
+tank
+teargas
+missile
+whip
+ice pick
+hatchet
+slingshot
+fist
+axe
+bow
+razor
+razor blade
+rocket
+judo
+stick
+poison
+rock
+stone
+gas
+chain
+scissor
+brick
+pitchfork
+hammer
+word
+hand
+pipe
+rope
+airplane
+foot
+car
+screwdriver
+glass
+shoe
