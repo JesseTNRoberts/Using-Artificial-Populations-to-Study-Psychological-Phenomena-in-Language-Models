@@ -1,0 +1,163 @@
+Subordinate,Priming,Predict,Right
+Ankle socks is a type of ,Truck. ,Socks. ,-1
+Ankle socks is a type of ,,Socks. ,0
+Ankle socks is a type of ,Socks. ,Socks. ,1
+Bald eagle is a type of ,Socks. ,Eagle. ,-1
+Bald eagle is a type of ,,Eagle. ,0
+Bald eagle is a type of ,Eagle. ,Eagle. ,1
+Ball-peen hammer is a type of ,Maple. ,Hammer. ,-1
+Ball-peen hammer is a type of ,,Hammer. ,0
+Ball-peen hammer is a type of ,Hammer. ,Hammer. ,1
+Base drum is a type of ,Grapes. ,Drum. ,-1
+Base drum is a type of ,,Drum. ,0
+Base drum is a type of ,Drum. ,Drum. ,1
+Blueback salmon is a type of ,Oak. ,Salmon. ,-1
+Blueback salmon is a type of ,,Salmon. ,0
+Blueback salmon is a type of ,Salmon. ,Salmon. ,1
+Chinook salmon is a type of ,Sparrow. ,Salmon. ,-1
+Chinook salmon is a type of ,,Salmon. ,0
+Chinook salmon is a type of ,Salmon. ,Salmon. ,1
+City bus is a type of ,Saw. ,Bus. ,-1
+City bus is a type of ,,Bus. ,0
+City bus is a type of ,Bus. ,Bus. ,1
+Classical guitar is a type of ,Bass. ,Guitar. ,-1
+Classical guitar is a type of ,,Guitar. ,0
+Classical guitar is a type of ,Guitar. ,Guitar. ,1
+Claw hammer is a type of ,Salmon. ,Hammer. ,-1
+Claw hammer is a type of ,,Hammer. ,0
+Claw hammer is a type of ,Hammer. ,Hammer. ,1
+Cling peach is a type of ,Table. ,Peach. ,-1
+Cling peach is a type of ,,Peach. ,0
+Cling peach is a type of ,Peach. ,Peach. ,1
+Concord grapes is a type of ,Shirt. ,Grapes. ,-1
+Concord grapes is a type of ,,Grapes. ,0
+Concord grapes is a type of ,Grapes. ,Grapes. ,1
+Cross country bus is a type of ,Apple. ,Bus. ,-1
+Cross country bus is a type of ,,Bus. ,0
+Cross country bus is a type of ,Bus. ,Bus. ,1
+Cross-cutting hand saw is a type of ,Eagle. ,Saw. ,-1
+Cross-cutting hand saw is a type of ,,Saw. ,0
+Cross-cutting hand saw is a type of ,Saw. ,Saw. ,1
+Delicious apple is a type of ,Chair. ,Apple. ,-1
+Delicious apple is a type of ,,Apple. ,0
+Delicious apple is a type of ,Apple. ,Apple. ,1
+Desk lamp is a type of ,Apple. ,Lamp. ,-1
+Desk lamp is a type of ,,Lamp. ,0
+Desk lamp is a type of ,Lamp. ,Lamp. ,1
+Dining room table is a type of ,Eagle. ,Table. ,-1
+Dining room table is a type of ,,Table. ,0
+Dining room table is a type of ,Table. ,Table. ,1
+Double knit pants is a type of ,Grapes. ,Pants. ,-1
+Double knit pants is a type of ,,Pants. ,0
+Double knit pants is a type of ,Pants. ,Pants. ,1
+Dress shirt is a type of ,Trout. ,Shirt. ,-1
+Dress shirt is a type of ,,Shirt. ,0
+Dress shirt is a type of ,Shirt. ,Shirt. ,1
+Easter cardinal is a type of ,Peach. ,Cardinal. ,-1
+Easter cardinal is a type of ,,Cardinal. ,0
+Easter cardinal is a type of ,Cardinal. ,Cardinal. ,1
+Field sparrow is a type of ,Truck. ,Sparrow. ,-1
+Field sparrow is a type of ,,Sparrow. ,0
+Field sparrow is a type of ,Sparrow. ,Sparrow. ,1
+Floor lamp is a type of ,Screwdriver. ,Lamp. ,-1
+Floor lamp is a type of ,,Lamp. ,0
+Floor lamp is a type of ,Lamp. ,Lamp. ,1
+Folk guitar is a type of ,Bass. ,Guitar. ,-1
+Folk guitar is a type of ,,Guitar. ,0
+Folk guitar is a type of ,Guitar. ,Guitar. ,1
+Four door sedan car is a type of ,Table. ,Car. ,-1
+Four door sedan car is a type of ,,Car. ,0
+Four door sedan car is a type of ,Car. ,Car. ,1
+Freestone peach is a type of ,Eagle. ,Peach. ,-1
+Freestone peach is a type of ,,Peach. ,0
+Freestone peach is a type of ,Peach. ,Peach. ,1
+Golden eagle is a type of ,Piano. ,Eagle. ,-1
+Golden eagle is a type of ,,Eagle. ,0
+Golden eagle is a type of ,Eagle. ,Eagle. ,1
+Grand piano is a type of ,Shirt. ,Piano. ,-1
+Grand piano is a type of ,,Piano. ,0
+Grand piano is a type of ,Piano. ,Piano. ,1
+Green seedless grapes is a type of ,Bus. ,Grapes. ,-1
+Green seedless grapes is a type of ,,Grapes. ,0
+Green seedless grapes is a type of ,Grapes. ,Grapes. ,1
+Grey tailed cardinal is a type of ,Car. ,Cardinal. ,-1
+Grey tailed cardinal is a type of ,,Cardinal. ,0
+Grey tailed cardinal is a type of ,Cardinal. ,Cardinal. ,1
+Hack hand saw is a type of ,Grapes. ,Saw. ,-1
+Hack hand saw is a type of ,,Saw. ,0
+Hack hand saw is a type of ,Saw. ,Saw. ,1
+Kettle drum is a type of ,Peach. ,Drum. ,-1
+Kettle drum is a type of ,,Drum. ,0
+Kettle drum is a type of ,Drum. ,Drum. ,1
+Kitchen chair is a type of ,Grapes. ,Chair. ,-1
+Kitchen chair is a type of ,,Chair. ,0
+Kitchen chair is a type of ,Chair. ,Chair. ,1
+Kitchen table is a type of ,Apple. ,Table. ,-1
+Kitchen table is a type of ,,Table. ,0
+Kitchen table is a type of ,Table. ,Table. ,1
+Knee socks is a type of ,Oak. ,Socks. ,-1
+Knee socks is a type of ,,Socks. ,0
+Knee socks is a type of ,Socks. ,Socks. ,1
+Knit shirt is a type of ,Sparrow. ,Shirt. ,-1
+Knit shirt is a type of ,,Shirt. ,0
+Knit shirt is a type of ,Shirt. ,Shirt. ,1
+Levis is a type of ,Cardinal. ,Pants. ,-1
+Levis is a type of ,,Pants. ,0
+Levis is a type of ,Pants. ,Pants. ,1
+Living room chair is a type of ,Sparrow. ,Chair. ,-1
+Living room chair is a type of ,,Chair. ,0
+Living room chair is a type of ,Chair. ,Chair. ,1
+Mackintosh apple is a type of ,Salmon. ,Apple. ,-1
+Mackintosh apple is a type of ,,Apple. ,0
+Mackintosh apple is a type of ,Apple. ,Apple. ,1
+Phillips screwdriver is a type of ,Grapes. ,Screwdriver. ,-1
+Phillips screwdriver is a type of ,,Screwdriver. ,0
+Phillips screwdriver is a type of ,Screwdriver. ,Screwdriver. ,1
+Pick up truck is a type of ,Peach. ,Truck. ,-1
+Pick up truck is a type of ,,Truck. ,0
+Pick up truck is a type of ,Truck. ,Truck. ,1
+Rainbow trout is a type of ,Eagle. ,Trout. ,-1
+Rainbow trout is a type of ,,Trout. ,0
+Rainbow trout is a type of ,Trout. ,Trout. ,1
+Red oak is a type of ,Lamp. ,Oak. ,-1
+Red oak is a type of ,,Oak. ,0
+Red oak is a type of ,Oak. ,Oak. ,1
+Regular screwdriver is a type of ,Apple. ,Screwdriver. ,-1
+Regular screwdriver is a type of ,,Screwdriver. ,0
+Regular screwdriver is a type of ,Screwdriver. ,Screwdriver. ,1
+River birch is a type of ,Car. ,Birch. ,-1
+River birch is a type of ,,Birch. ,0
+River birch is a type of ,Birch. ,Birch. ,1
+Sea bass is a type of ,Birch. ,Bass. ,-1
+Sea bass is a type of ,,Bass. ,0
+Sea bass is a type of ,Bass. ,Bass. ,1
+Silver maple is a type of ,Guitar. ,Maple. ,-1
+Silver maple is a type of ,,Maple. ,0
+Silver maple is a type of ,Maple. ,Maple. ,1
+Song sparrow is a type of ,Hammer. ,Sparrow. ,-1
+Song sparrow is a type of ,,Sparrow. ,0
+Song sparrow is a type of ,Sparrow. ,Sparrow. ,1
+Sports car is a type of ,Pants. ,Car. ,-1
+Sports car is a type of ,,Car. ,0
+Sports car is a type of ,Car. ,Car. ,1
+Steelhead trout is a type of ,Maple. ,Trout. ,-1
+Steelhead trout is a type of ,,Trout. ,0
+Steelhead trout is a type of ,Trout. ,Trout. ,1
+Striped bass is a type of ,Drum. ,Bass. ,-1
+Striped bass is a type of ,,Bass. ,0
+Striped bass is a type of ,Bass. ,Bass. ,1
+Sugar maple is a type of ,Grapes. ,Maple. ,-1
+Sugar maple is a type of ,,Maple. ,0
+Sugar maple is a type of ,Maple. ,Maple. ,1
+Tractor-trailer truck is a type of ,Shirt. ,Truck. ,-1
+Tractor-trailer truck is a type of ,,Truck. ,0
+Tractor-trailer truck is a type of ,Truck. ,Truck. ,1
+Upright piano is a type of ,Table. ,Piano. ,-1
+Upright piano is a type of ,,Piano. ,0
+Upright piano is a type of ,Piano. ,Piano. ,1
+White birch is a type of ,Piano. ,Birch. ,-1
+White birch is a type of ,,Birch. ,0
+White birch is a type of ,Birch. ,Birch. ,1
+White oak is a type of ,Peach. ,Oak. ,-1
+White oak is a type of ,,Oak. ,0
+White oak is a type of ,Oak. ,Oak. ,1
