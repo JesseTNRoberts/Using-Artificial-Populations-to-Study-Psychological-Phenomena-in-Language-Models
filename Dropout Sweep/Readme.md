@@ -7,3 +7,5 @@ In MC dropout literature the ideal dropout is in the neighborhood of 0.1. The qu
 The mean is not stable and neighter is the std. Rather the mean probability continually drops and the std increases at an accelerating rate. 
 
 Neither category nor typicality seemed to significantly effect the change or rate of change of mean probability or mean std as dropout increased.
+
+
