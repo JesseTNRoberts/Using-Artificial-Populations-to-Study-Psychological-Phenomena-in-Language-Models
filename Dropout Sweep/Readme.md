@@ -8,4 +8,4 @@ The mean is not stable and neighter is the std. Rather the mean probability cont
 
 Neither category nor typicality seemed to significantly effect the change or rate of change of mean probability or mean std as dropout increased.
 
-
+As dropout increases both the correlation and significance of the std and mean probability to the typicality become worse. Therefore, we suggest using dropout equal to 0.1 as this has been shown to give the best improvement on classification error and may permit the best correlation with evaluation of potential pscyhological phenomena.  
