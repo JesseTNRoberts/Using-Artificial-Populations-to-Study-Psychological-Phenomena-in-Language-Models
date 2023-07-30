@@ -1,32 +1,13 @@
-import os
 import argparse
 import csv
 import itertools
 from tqdm import tqdm
-
-import random
 
 import torch
 from torch.utils.data import DataLoader
 
 from minicons import scorer
 import PopulationLM as pop
-
-committee_size = 50
-
-def shuffle_sentence(sentence, word):
-    '''
-        returns the shuffled form of a sentence while preserving the 
-        multi-word expression order for the focus word.
-    '''
-    sentence = sentence.replace(".", "")
-    if len(word.split()) > 1:
-        sentence = sentence.replace(word, "@".join(word.split())).split()
-    else:
-        sentence = sentence.split()
-    random.shuffle(sentence)
-        
-    return " ".join(sentence).replace("@", " ").capitalize() + "."
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--dataset", type = str)
@@ -46,7 +27,6 @@ committee_size = args.committee_size
 device = args.device
 lm_type = args.lmtype
 
-# make results dir: ../data/typicality/results/(dataset)/model_name.csv
 components = inpath.split("/")
 data_dir = "/".join(components[0:-1])
 dataset_name = components[-1].split(".")[0]
@@ -69,7 +49,7 @@ if "/" in model_name:
 
 num_params = [sum(p.numel() for p in transformer.model.parameters())] * len(dataset)
 
-stimuli_loader = DataLoader(dataset, batch_size = batch_size, num_workers=0, shuffle=True)
+stimuli_loader = DataLoader(dataset, batch_size = batch_size, num_workers=0)
 
 # convert the internal model to use MC Dropout
 pop.DropoutUtils.convert_dropouts(transformer.model)
@@ -80,7 +60,7 @@ control_results = []
 conclusion_only = []
 
 
-column_names += ["px-tx results", "px-ty results", "py-tx results", "py-ty results"]
+column_names += ["tx results", "ty results","px-tx results", "px-ty results", "py-tx results", "py-ty results"]
 column_names += ["params", "model"]
 with open(results_dir + f"/{model_name}.csv", "w", newline='') as f:
     writer = csv.writer(f)
@@ -89,7 +69,7 @@ with open(results_dir + f"/{model_name}.csv", "w", newline='') as f:
 # create a lambda function alias for the method that performs classifications
 call_me = lambda p1, q1: transformer.conditional_score(p1, q1, reduction=lambda x: (x.sum(0).item(), x.mean(0).item(), x.tolist()))
 
-results = {'px-tx': [], 'px-ty': [], 'py-tx': [], 'py-ty': []}
+results = {'pn-tx': [], 'pn-ty': [], 'px-tx': [], 'px-ty': [], 'py-tx': [], 'py-ty': []}
 if num_batches < 0:
     num_batches = len(stimuli_loader)
 for i, batch in tqdm(zip(range(num_batches), stimuli_loader)):
@@ -98,8 +78,13 @@ for i, batch in tqdm(zip(range(num_batches), stimuli_loader)):
     for i in range(4):
         dataset[i].extend(batch[i])
 
-    for primer, target in tqdm(itertools.product(('px', 'py'), ('tx', 'ty')), leave=False):
-        p_list = batch[0 if primer == 'px' else 1]
+    for primer, target in tqdm(itertools.product(('pn', 'px', 'py'), ('tx', 'ty')), leave=False):
+        if primer == 'pn':
+            p_list = ('',) * batch_size
+        elif primer == 'px':
+            p_list = batch[0]
+        elif primer == 'py':
+            p_list = batch[1]
         t_list = batch[2 if target == 'tx' else 3]
         # create the population identities
         population = pop.generate_dropout_population(transformer.model, lambda: call_me(p_list, t_list), committee_size=committee_size)
@@ -110,7 +95,8 @@ for i, batch in tqdm(zip(range(num_batches), stimuli_loader)):
 
         results[primer+'-'+target].extend(priming_scores)
 
-    # dataset = list(zip(*dataset))
+    dataset.append(results['pn-tx'])
+    dataset.append(results['pn-ty'])
     dataset.append(results['px-tx'])
     dataset.append(results['px-ty'])
     dataset.append(results['py-tx'])
