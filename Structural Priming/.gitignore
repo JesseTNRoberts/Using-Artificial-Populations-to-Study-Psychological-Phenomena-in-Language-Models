@@ -1,0 +1,5 @@
+Experiments/data/**/*.csv
+!Experiments/data/PrimeLM/CORE_dative_15000sampled_10-1.csv
+!Experiments/data/PrimeLM/CORE_transitive_15000sampled_10-1.csv
+!Experiments/data/PrimeLM_sampled/CORE_dative_500sampled.csv
+!Experiments/data/PrimeLM_sampled/CORE_transitive_500sampled.csv
