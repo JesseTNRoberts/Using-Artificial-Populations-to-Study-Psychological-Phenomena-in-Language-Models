@@ -1,2 +1,2 @@
-python "../python/extract_random_samples.py" --num_samples 500 --dataset "../data/PrimeLM/CORE_transitive_15000sampled_10-1.csv" --out_file "../data/PrimeLM_sampled/Core_transitive_500sampled.csv"
-python "../python/extract_random_samples.py" --num_samples 500 --dataset "../data/PrimeLM/CORE_dative_15000sampled_10-1.csv" --out_file "../data/PrimeLM_sampled/Core_dative_500sampled.csv"
+python "../python/extract_random_samples.py" --dataset "../data/PrimeLM/CORE_transitive_15000sampled_10-1.csv" --out_file "../data/PrimeLM_sampled/Core_transitive_1500sampled.csv"
+python "../python/extract_random_samples.py" --dataset "../data/PrimeLM/CORE_dative_15000sampled_10-1.csv" --out_file "../data/PrimeLM_sampled/Core_dative_1500sampled.csv"
