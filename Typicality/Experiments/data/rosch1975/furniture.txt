@@ -1,0 +1,60 @@
+chair
+sofa
+couch
+table
+easy chair
+dresser
+rocking chair
+coffee table
+rocker
+love seat
+chest of drawers
+desk
+bed
+bureau
+davenport
+end table
+divan
+night table
+chest
+cedar chest
+vanity
+bookcase
+lounge
+chaise lounge
+ottoman
+footstool
+cabinet
+china closet
+bench
+buffet
+lamp
+stool
+hassock
+drawer
+piano
+cushion
+magazine rack
+hi-fi
+cupboard
+stereo
+mirror
+television
+bar
+shelf
+rug
+pillow
+wastebasket
+radio
+sewing machine
+stove
+counter
+clock
+drape
+refrigerator
+picture
+closet
+vase
+ashtray
+fan
+telephone

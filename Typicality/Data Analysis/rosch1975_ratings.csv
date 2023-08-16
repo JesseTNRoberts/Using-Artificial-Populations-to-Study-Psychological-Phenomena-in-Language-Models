@@ -1,0 +1,566 @@
+item,category,rating
+doll,toy,1.41
+top,toy,1.48
+jack-in-the-box,toy,1.61
+toy soldier,toy,1.61
+yo-yo,toy,1.62
+block,toy,1.63
+marbles,toy,1.74
+rattle,toy,1.79
+stuffed animal,toy,1.87
+water pistol,toy,1.88
+teddy bear,toy,1.9
+rocking horse,toy,1.91
+doll house,toy,1.95
+ball,toy,1.96
+jacks,toy,2.09
+paper dolls,toy,2.14
+erector set,toy,2.16
+hula hoop,toy,2.16
+jump rope,toy,2.29
+pogo stick,toy,2.44
+clay,toy,2.49
+wagon,toy,2.49
+kite,toy,2.51
+train,toy,2.59
+tricycle,toy,2.61
+coloring book,toy,2.68
+crayons,toy,2.71
+truck,toy,2.78
+puzzle,toy,2.82
+fire engine,toy,2.83
+balloon,toy,3.07
+skates,toy,3.13
+baseball,toy,3.18
+drum,toy,3.23
+football,toy,3.28
+game,toy,3.35
+swing,toy,3.35
+boat,toy,3.36
+monopoly,toy,3.42
+sled,toy,3.43
+seesaw,toy,3.48
+stilts,toy,3.48
+checkers,toy,3.56
+bat,toy,3.62
+car,toy,3.63
+airplane,toy,3.66
+bicycle,toy,3.68
+tractor,toy,3.68
+sandbox,toy,3.71
+bike,toy,3.77
+bow and arrow,toy,4.2
+rope,toy,4.2
+dishes,toy,4.51
+cards,toy,4.56
+mitt,toy,4.77
+horse,toy,4.97
+gun,toy,5.36
+animals,toy,5.39
+tennis racket,toy,5.4
+books,toy,5.91
+robin,bird,1.02
+sparrow,bird,1.18
+bluejay,bird,1.29
+bluebird,bird,1.31
+canary,bird,1.42
+blackbird,bird,1.43
+dove,bird,1.46
+lark,bird,1.47
+swallow,bird,1.52
+parakeet,bird,1.53
+oriole,bird,1.61
+mockingbird,bird,1.62
+redbird,bird,1.64
+wren,bird,1.64
+finch,bird,1.66
+starling,bird,1.72
+cardinal,bird,1.75
+eagle,bird,1.75
+hummingbird,bird,1.76
+seagull,bird,1.77
+woodpecker,bird,1.78
+pigeon,bird,1.81
+thrush,bird,1.89
+falcon,bird,1.96
+crow,bird,1.97
+hawk,bird,1.99
+raven,bird,2.01
+goldfinch,bird,2.06
+parrot,bird,2.07
+sandpiper,bird,2.4
+pheasant,bird,2.69
+catbird,bird,2.72
+crane,bird,2.77
+albatross,bird,2.8
+condor,bird,2.83
+toucan,bird,2.95
+owl,bird,2.96
+pelican,bird,2.98
+goose,bird,3.03
+vulture,bird,3.06
+stork,bird,3.1
+buzzard,bird,3.14
+swan,bird,3.16
+flamingo,bird,3.17
+duck,bird,3.24
+peacock,bird,3.31
+egret,bird,3.39
+chicken,bird,4.02
+turkey,bird,4.09
+ostrich,bird,4.12
+titmouse,bird,4.35
+emu,bird,4.38
+penguin,bird,4.53
+bat,bird,6.15
+football,sport,1.03
+baseball,sport,1.05
+basketball,sport,1.12
+tennis,sport,1.15
+softball,sport,1.29
+canoeing,sport,1.41
+handball,sport,1.42
+rugby,sport,1.43
+hockey,sport,1.44
+ice hockey,sport,1.45
+swimming,sport,1.53
+track,sport,1.61
+boxing,sport,1.66
+volleyball,sport,1.71
+lacrosse,sport,1.72
+skiing,sport,1.76
+golf,sport,1.77
+polo,sport,1.8
+surfing,sport,1.84
+wrestling,sport,1.87
+gymnastics,sport,1.88
+cricket,sport,1.99
+squash,sport,1.99
+badminton,sport,2.08
+racing,sport,2.08
+pole vault,sport,2.09
+fencing,sport,2.13
+bowling,sport,2.18
+water skiing,sport,2.22
+ice skating,sport,2.29
+jai alai,sport,2.3
+skating,sport,2.39
+skindiving,sport,2.4
+sailing,sport,2.44
+diving,sport,2.5
+archery,sport,2.54
+judo,sport,2.63
+car racing,sport,2.78
+ping pong,sport,2.8
+rowing,sport,2.82
+fishing,sport,2.84
+horseback riding,sport,2.85
+running,sport,3.01
+horse racing,sport,3.18
+hiking,sport,3.5
+weight lifting,sport,3.59
+croquet,sport,3.6
+horseshoes,sport,3.72
+boating,sport,3.75
+pool,sport,3.82
+billiards,sport,3.95
+hunting,sport,4.05
+jump rope,sport,5
+camping,sport,5.07
+chess,sport,5.07
+dancing,sport,5.49
+checkers,sport,5.64
+cards,sport,5.79
+sunbathing,sport,6.75
+pea,vegetable,1.07
+carrot,vegetable,1.15
+green bean,vegetable,1.18
+string bean,vegetable,1.21
+spinach,vegetable,1.22
+broccoli,vegetable,1.28
+asparagus,vegetable,1.41
+corn,vegetable,1.55
+cauliflower,vegetable,1.62
+brussels sprouts,vegetable,1.72
+squash,vegetable,1.83
+lettuce,vegetable,1.85
+celery,vegetable,1.9
+cucumber,vegetable,2.05
+beet,vegetable,2.08
+green,vegetable,2.18
+tomato,vegetable,2.23
+lima bean,vegetable,2.28
+artichoke,vegetable,2.32
+turnip,vegetable,2.37
+eggplant,vegetable,2.38
+romaine,vegetable,2.44
+green pepper,vegetable,2.49
+okra,vegetable,2.49
+radish,vegetable,2.51
+onion,vegetable,2.52
+bean,vegetable,2.54
+green onion,vegetable,2.6
+potato,vegetable,2.89
+parsnip,vegetable,2.91
+turnip green,vegetable,2.95
+collard,vegetable,2.99
+wax bean,vegetable,3.02
+watercress,vegetable,3.04
+black eyed pea,vegetable,3.06
+leek,vegetable,3.15
+pepper,vegetable,3.21
+sweet potato,vegetable,3.27
+yam,vegetable,3.31
+parsley,vegetable,3.32
+endive,vegetable,3.39
+rutabaga,vegetable,3.42
+mushroom,vegetable,3.56
+avocado,vegetable,3.62
+rhubarb,vegetable,3.66
+kale,vegetable,3.67
+escarole,vegetable,3.9
+sauerkraut,vegetable,4.18
+pickle,vegetable,4.57
+baked bean,vegetable,4.73
+pumpkin,vegetable,4.74
+seaweed,vegetable,5.04
+garlic,vegetable,5.07
+dandelion,vegetable,5.2
+peanut,vegetable,5.56
+rice,vegetable,5.59
+saw,tool,1.04
+hammer,tool,1.34
+ruler,tool,1.48
+screwdriver,tool,1.56
+drill,tool,1.59
+nail,tool,1.67
+tape measure,tool,1.69
+sawhorse,tool,1.77
+sandpaper,tool,1.78
+sander,tool,1.79
+level,tool,1.82
+plane,tool,1.91
+file,tool,2.01
+toolbox,tool,2.12
+T-square,tool,2.22
+chisel,tool,2.26
+rasp,tool,2.37
+pencil,tool,2.39
+hacksaw,tool,2.41
+square,tool,2.44
+bench,tool,2.5
+plier,tool,2.59
+wrench,tool,2.6
+ladder,tool,2.64
+lathe,tool,2.75
+vise,tool,2.76
+screw,tool,2.77
+wood,tool,2.77
+wedge,tool,2.8
+lumber,tool,2.84
+blueprint,tool,2.9
+brace,tool,2.92
+awl,tool,3.09
+crowbar,tool,3.12
+hinge,tool,3.12
+miter box,tool,3.23
+knife,tool,3.44
+chalk,tool,3.5
+nut,tool,3.5
+bolt,tool,3.63
+plumb line,tool,3.65
+brush,tool,3.74
+sledge hammer,tool,3.74
+glue,tool,3.79
+paintbrush,tool,3.81
+varnish,tool,3.91
+apron,tool,4.06
+stapler,tool,4.21
+extension cord,tool,4.29
+soldering iron,tool,4.39
+plaster,tool,4.43
+wheelbarrow,tool,4.43
+axe,tool,4.53
+slide rule,tool,4.57
+cement,tool,4.91
+anvil,tool,5.1
+hatchet,tool,5.15
+rag,tool,5.2
+scissor,tool,5.36
+crane,tool,5.7
+orange,fruit,1.07
+apple,fruit,1.08
+banana,fruit,1.15
+peach,fruit,1.17
+pear,fruit,1.18
+apricot,fruit,1.36
+tangerine,fruit,1.36
+plum,fruit,1.37
+grape,fruit,1.38
+nectarine,fruit,1.52
+strawberry,fruit,1.61
+grapefruit,fruit,1.77
+berry,fruit,1.82
+cherry,fruit,1.86
+pineapple,fruit,1.91
+blackberry,fruit,2.05
+melon,fruit,2.09
+blueberry,fruit,2.14
+raspberry,fruit,2.15
+lemon,fruit,2.16
+black raspberry,fruit,2.21
+boysenberry,fruit,2.38
+watermelon,fruit,2.39
+cantaloupe,fruit,2.44
+lime,fruit,2.45
+tangelo,fruit,2.5
+papaya,fruit,2.58
+honeydew,fruit,2.73
+fig,fruit,2.86
+mango,fruit,2.88
+guava,fruit,3.03
+pomegranate,fruit,3.05
+cranberry,fruit,3.22
+passion fruit,fruit,3.22
+prune,fruit,3.3
+gooseberry,fruit,3.33
+date,fruit,3.35
+kumquat,fruit,3.39
+raisin,fruit,3.42
+muskmelon,fruit,3.48
+persimmon,fruit,3.63
+pawpaw,fruit,4.3
+coconut,fruit,4.5
+avocado,fruit,5.37
+pumpkin,fruit,5.39
+tomato,fruit,5.58
+nut,fruit,6.01
+gourd,fruit,6.02
+olive,fruit,6.21
+pickle,fruit,6.34
+squash,fruit,6.55
+pant,clothing,1.12
+shirt,clothing,1.14
+dress,clothing,1.14
+skirt,clothing,1.21
+blouse,clothing,1.27
+suit,clothing,1.45
+slack,clothing,1.49
+jacket,clothing,1.68
+coat,clothing,1.88
+sweater,clothing,1.89
+sweatshirt,clothing,1.95
+underpant,clothing,2.01
+sports jacket,clothing,2.05
+jumper,clothing,2.08
+panty,clothing,2.08
+sock,clothing,2.13
+parka,clothing,2.19
+pajama,clothing,2.25
+undershirt,clothing,2.26
+overcoat,clothing,2.29
+nightgown,clothing,2.39
+raincoat,clothing,2.44
+bathing suit,clothing,2.44
+bathrobe,clothing,2.65
+slip,clothing,2.67
+bra,clothing,2.68
+shoe,clothing,2.73
+tuxedo,clothing,2.76
+stocking,clothing,2.79
+vest,clothing,2.81
+nylon,clothing,2.98
+cape,clothing,3.38
+boot,clothing,3.42
+sandal,clothing,3.56
+tie,clothing,3.71
+girdle,clothing,3.72
+belt,clothing,3.93
+scarf,clothing,3.96
+mitten,clothing,3.99
+slipper,clothing,4.08
+hat,clothing,4.2
+overshoe,clothing,4.42
+glove,clothing,4.53
+apron,clothing,4.57
+earmuff,clothing,5.04
+handkerchief,clothing,5.87
+purse,clothing,5.92
+hairband,clothing,5.98
+ring,clothing,6.11
+earring,clothing,6.15
+watch,clothing,6.15
+cuff link,clothing,6.18
+necklace,clothing,6.21
+bracelet,clothing,6.24
+cane,clothing,6.25
+automobile,vehicle,1.02
+station wagon,vehicle,1.14
+truck,vehicle,1.17
+car,vehicle,1.24
+bus,vehicle,1.27
+taxi,vehicle,1.27
+jeep,vehicle,1.35
+ambulance,vehicle,1.62
+motorcycle,vehicle,1.65
+streetcar,vehicle,1.9
+van,vehicle,1.95
+Honda,vehicle,2.03
+cable car,vehicle,2.11
+train,vehicle,2.15
+trolley,vehicle,2.19
+bicycle,vehicle,2.51
+carriage,vehicle,2.59
+airplane,vehicle,2.64
+bike,vehicle,2.73
+boat,vehicle,2.75
+jet,vehicle,2.79
+ship,vehicle,2.82
+scooter,vehicle,3.24
+tractor,vehicle,3.3
+wagon,vehicle,3.31
+subway,vehicle,3.32
+trailer,vehicle,3.5
+cart,vehicle,3.55
+wheelchair,vehicle,3.68
+yacht,vehicle,3.76
+tank,vehicle,3.84
+go-cart,vehicle,3.85
+rowboat,vehicle,3.92
+dogsled,vehicle,3.95
+tricycle,vehicle,4
+canoe,vehicle,4.01
+raft,vehicle,4.37
+submarine,vehicle,4.51
+sled,vehicle,4.61
+horse,vehicle,4.63
+rocket,vehicle,4.74
+blimp,vehicle,4.81
+skate,vehicle,4.99
+camel,vehicle,5.22
+feet,vehicle,5.34
+ski,vehicle,5.4
+skateboard,vehicle,5.54
+wheelbarrow,vehicle,5.72
+surfboard,vehicle,5.78
+elevator,vehicle,5.9
+chair,furniture,1.04
+sofa,furniture,1.04
+couch,furniture,1.1
+table,furniture,1.1
+easy chair,furniture,1.33
+dresser,furniture,1.37
+rocking chair,furniture,1.37
+coffee table,furniture,1.38
+rocker,furniture,1.42
+love seat,furniture,1.44
+chest of drawers,furniture,1.48
+desk,furniture,1.54
+bed,furniture,1.58
+bureau,furniture,1.59
+davenport,furniture,1.61
+end table,furniture,1.61
+divan,furniture,1.7
+night table,furniture,1.83
+chest,furniture,1.98
+cedar chest,furniture,2.11
+vanity,furniture,2.13
+bookcase,furniture,2.15
+lounge,furniture,2.17
+chaise lounge,furniture,2.26
+ottoman,furniture,2.43
+footstool,furniture,2.45
+cabinet,furniture,2.49
+china closet,furniture,2.59
+bench,furniture,2.77
+buffet,furniture,2.89
+lamp,furniture,2.94
+stool,furniture,3.13
+hassock,furniture,3.43
+drawer,furniture,3.63
+piano,furniture,3.64
+cushion,furniture,3.7
+magazine rack,furniture,4.14
+hi-fi,furniture,4.25
+cupboard,furniture,4.27
+stereo,furniture,4.32
+mirror,furniture,4.39
+television,furniture,4.41
+bar,furniture,4.46
+shelf,furniture,4.52
+rug,furniture,5
+pillow,furniture,5.03
+wastebasket,furniture,5.34
+radio,furniture,5.37
+sewing machine,furniture,5.39
+stove,furniture,5.4
+counter,furniture,5.44
+clock,furniture,5.48
+drape,furniture,5.67
+refrigerator,furniture,5.7
+picture,furniture,5.75
+closet,furniture,5.95
+vase,furniture,6.23
+ashtray,furniture,6.35
+fan,furniture,6.49
+telephone,furniture,6.68
+gun,weapon,1.03
+pistol,weapon,1.07
+revolver,weapon,1.09
+machine gun,weapon,1.16
+rifle,weapon,1.17
+switchblade,weapon,1.35
+knife,weapon,1.4
+dagger,weapon,1.41
+shotgun,weapon,1.46
+sword,weapon,1.47
+bomb,weapon,1.61
+hand grenade,weapon,1.61
+Atom bomb,weapon,1.69
+bayonet,weapon,1.69
+spear,weapon,1.7
+bazooka,weapon,1.76
+cannon,weapon,1.96
+bow and arrow,weapon,1.98
+club,weapon,2.09
+lance,weapon,2.14
+brass knuckle,weapon,2.38
+bullet,weapon,2.44
+tomahawk,weapon,2.48
+mortar,weapon,2.56
+arrow,weapon,2.66
+blackjack,weapon,2.68
+tank,weapon,2.74
+teargas,weapon,2.88
+missile,weapon,2.9
+whip,weapon,3.11
+ice pick,weapon,3.14
+hatchet,weapon,3.16
+slingshot,weapon,3.29
+fist,weapon,3.31
+axe,weapon,3.34
+bow,weapon,3.44
+razor,weapon,3.82
+razor blade,weapon,3.83
+rocket,weapon,3.9
+judo,weapon,3.94
+stick,weapon,4.04
+poison,weapon,4.07
+rock,weapon,4.18
+stone,weapon,4.26
+gas,weapon,4.31
+chain,weapon,4.45
+scissor,weapon,4.5
+brick,weapon,4.64
+pitchfork,weapon,4.67
+hammer,weapon,4.78
+word,weapon,4.93
+hand,weapon,5.01
+pipe,weapon,5.04
+rope,weapon,5.08
+airplane,weapon,5.09
+foot,weapon,5.23
+car,weapon,5.31
+screwdriver,weapon,5.4
+glass,weapon,5.6
+shoe,weapon,6.23

@@ -1,0 +1,59 @@
+football
+baseball
+basketball
+tennis
+softball
+canoeing
+handball
+rugby
+hockey
+ice hockey
+swimming
+track
+boxing
+volleyball
+lacrosse
+skiing
+golf
+polo
+surfing
+wrestling
+gymnastics
+cricket
+squash
+badminton
+racing
+pole vault
+fencing
+bowling
+water skiing
+ice skating
+jai alai
+skating
+skindiving
+sailing
+diving
+archery
+judo
+car racing
+ping pong
+rowing
+fishing
+horseback riding
+running
+horse racing
+hiking
+weight lifting
+croquet
+horseshoes
+boating
+pool
+billiards
+hunting
+jump rope
+camping
+chess
+dancing
+checkers
+cards
+sunbathing
