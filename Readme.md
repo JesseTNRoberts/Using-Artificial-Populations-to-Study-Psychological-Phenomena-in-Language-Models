@@ -18,15 +18,18 @@ For reference, the original can be found here: https://github.com/kanishkamisra/
 
 #### Other Utilities
 
-Huggingface-0.0.1
-pandas-1.5.3
-numpy-1.23.5
-scipy-1.10.1
-researchpy-0.3.5
-plotly-5.15.0
-seaborn-0.12.2
-matplotlib-3.7.1
-tqdm - 4.65.0
+- huggingface-0.0.1
+- pandas-1.5.3
+- numpy-1.23.5
+- scipy-1.10.1
+- researchpy-0.3.5
+- plotly-5.15.0
+- seaborn-0.12.2
+- matplotlib-3.7.1
+- tqdm-4.65.0
+- torch-1.13.1
+- huggingface-hub-0.16.4
+- transformers-4.31.0
 
 ### Computer Architecture
 
