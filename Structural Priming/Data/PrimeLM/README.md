@@ -1,1 +1,0 @@
-The corpus files are split on syntactic construction (dative/transitive), and experiment condition (Core/Recency/Semantic Similarity/etc.). Each corpus file consists of 4 columns: the 2 forms of the prime (e.g. active & passive), and the 2 forms of the target. 
