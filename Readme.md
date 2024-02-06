@@ -1,6 +1,6 @@
 ## Replication Repository - Using Artificial Populations to Study Psychological Phenomena in Language Models
 
-This repository holds the code necessary to recreate the experiments for "Using Artificial Populations to Study Psychological Phenomena in Language Models"
+This repository holds the code necessary to recreate the experiments used in AAAI 2024 paper "Using Artificial Populations to Study Psychological Phenomena in Language Models"
 
 ### Dependencies
 
